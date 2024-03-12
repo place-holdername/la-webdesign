@@ -493,7 +493,7 @@ p {
 
 .sticky .navbar-btn .ud-white-btn {
   background: var(--primary-color);
-  color: var(--white);
+  color: var(--black);
 }
 
 .sticky .navbar-btn .ud-white-btn:hover {
@@ -525,7 +525,7 @@ p {
 }
 
 .ud-hero-content .ud-hero-title {
-  color: var(--white);
+  color: var(--black);
   font-weight: 700;
   font-size: 45px;
   line-height: 60px;
